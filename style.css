@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    /* background-color: #292929 !important; */
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://preview.redd.it/y99z7p80osa71.png?width=1920&format=png&auto=webp&s=160cab16e1eceb9f62dc4db8c8d58e3eed09fa68") !important;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    /* background-repeat: no-repeat; */
+  }
+
+  .navbar-nav{
+    margin-left: 89%;
+  }
+
+  .navbar-brand img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 10px;
+  }
+  
